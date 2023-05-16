@@ -1,0 +1,13 @@
+/* Header-Hero */
+
+.navbar {
+    max-height: 100px;
+}
+
+.navbar-brand img {
+    max-height: 200px;
+}
+
+.navbar-nav li button {
+    margin-left: 1rem;
+}
